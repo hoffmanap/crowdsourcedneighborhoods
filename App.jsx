@@ -1,3 +1,4 @@
+/* global L, turf */
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
