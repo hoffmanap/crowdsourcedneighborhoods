@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // set base to "/my-repo/"
 export default defineConfig({
   plugins: [react()],
-  base: "/crowdsourcedneighborhoods/",
-});
+  base: "/crowdsourcedneighborhoods/", 
+})
