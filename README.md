@@ -2,6 +2,8 @@
 
 A crowdsourced mapping tool where users draw polygon boundaries for El Paso neighborhoods. Submissions are stored locally and overlaid on the map. As more users contribute, Turf.js computes true consensus boundaries from the union of all submitted polygons.
 
+Try it at: https://hoffmanap.github.io/crowdsourcedneighborhoods/
+
 ## Features
 
 - **Draw polygons** on a Leaflet map to define neighborhood extents
