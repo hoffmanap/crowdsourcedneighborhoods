@@ -1,7 +1,7 @@
 {
   "name": "elpaso-neighborhood-map",
   "version": "1.0.0",
-  "homepage": "https://hoffmanap.github.io/crowdsourcedneighborhoods",
+  "homepage": "https://hoffmanap.github.io/crowdsourcedneighborhoods/",
   "type": "module",
   "scripts": {
     "dev": "vite",
